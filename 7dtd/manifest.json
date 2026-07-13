@@ -1,0 +1,85 @@
+{
+  "game": "7dtd",
+  "steamAppId": "251570",
+  "modsSubPath": "Mods",
+  "gameVersion": "V3.0",
+  "generatedAt": "2026-07-13T09:50:30.394Z",
+  "mods": [
+    {
+      "id": "harmony",
+      "displayName": "Harmony 元件（必要）",
+      "version": "内建",
+      "mandatory": true,
+      "fingerprint": "sha256:4257ea73602cbac95ab048792eba37e24d2f7f2f436b13782865ce2f2036f497",
+      "sizeBytes": 863285,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/0_TFP_Harmony.zip",
+      "folders": [
+        "0_TFP_Harmony"
+      ]
+    },
+    {
+      "id": "bigger-backpack",
+      "displayName": "背包擴充 152 格＋儲存 QoL",
+      "version": "3.0.2",
+      "mandatory": true,
+      "fingerprint": "sha256:efe9f009591e93ee782a061dcdd4cd2913165d5453e43d54dff98b49a7dbccd1",
+      "sizeBytes": 8201,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/BiggerBackpack152Slots-v3.0.2.zip",
+      "folders": [
+        "BiggerBackpack152Slots"
+      ]
+    },
+    {
+      "id": "modern-food",
+      "displayName": "現代食物（Modern Food）",
+      "version": "3.0",
+      "mandatory": true,
+      "fingerprint": "sha256:d092f67381600129e82374bac284ebdd420638628ab7c63d2ca639bd7a27de4b",
+      "sizeBytes": 16097426,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/ModernFood-v3.0-TW.zip",
+      "folders": [
+        "ModernFood"
+      ]
+    },
+    {
+      "id": "survivor-hygiene",
+      "displayName": "Survivor Hygiene（倖存者衛生）",
+      "version": "3.0.1",
+      "mandatory": true,
+      "fingerprint": "sha256:0c05b812b4eedc68aa01365066faa55f8465aa27cf0e631289572a1f6b71478b",
+      "sizeBytes": 8724226,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/SurvivorHygiene-v3.0.1.zip",
+      "folders": [
+        "zzzSurvivor_Hygiene"
+      ]
+    },
+    {
+      "id": "cosmetic-pack",
+      "displayName": "外觀衣櫃包（惡靈古堡＋陰屍路＋Fallout）",
+      "version": "1.0",
+      "mandatory": true,
+      "fingerprint": "sha256:17fc18f92fbde8a3c477bbd6f5ee3b07c4d5d9be09d24c2ecda2d4b9a75e360a",
+      "sizeBytes": 652762216,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/7dtd-cosmetic-pack.zip",
+      "folders": [
+        "0_TFP_Harmony",
+        "LittleRedSonja_CAS",
+        "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil_COSMETICONLY",
+        "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD_COSMETICONLY",
+        "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack09_Fallout_COSMETICONLY"
+      ]
+    },
+    {
+      "id": "distinct-buff-icons",
+      "displayName": "清楚的狀態圖示（Distinct Buff Icons）",
+      "version": "1.0.0",
+      "mandatory": false,
+      "fingerprint": "sha256:86a4af5917430065773686ab435ecf04d2443d1ad6e7a06d29b8a614ed464a78",
+      "sizeBytes": 1204692,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/DistinctBuffIcons-v1.0.zip",
+      "folders": [
+        "zCs_DistinctBuffIcons_plusCandyEdition"
+      ]
+    }
+  ]
+}
