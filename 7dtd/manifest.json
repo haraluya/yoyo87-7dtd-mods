@@ -3,7 +3,7 @@
   "steamAppId": "251570",
   "modsSubPath": "Mods",
   "gameVersion": "V3.0",
-  "generatedAt": "2026-07-13T09:50:30.394Z",
+  "generatedAt": "2026-07-13T11:41:42.303161Z",
   "mods": [
     {
       "id": "harmony",
@@ -39,18 +39,6 @@
       "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/ModernFood-v3.0-TW.zip",
       "folders": [
         "ModernFood"
-      ]
-    },
-    {
-      "id": "survivor-hygiene",
-      "displayName": "Survivor Hygiene（倖存者衛生）",
-      "version": "3.0.1",
-      "mandatory": true,
-      "fingerprint": "sha256:0c05b812b4eedc68aa01365066faa55f8465aa27cf0e631289572a1f6b71478b",
-      "sizeBytes": 8724226,
-      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/SurvivorHygiene-v3.0.1.zip",
-      "folders": [
-        "zzzSurvivor_Hygiene"
       ]
     },
     {
