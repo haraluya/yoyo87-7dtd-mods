@@ -3,7 +3,7 @@
   "steamAppId": "251570",
   "modsSubPath": "Mods",
   "gameVersion": "V3.0",
-  "generatedAt": "2026-07-13T11:41:42.303161Z",
+  "generatedAt": "2026-07-14T20:30:56.665Z",
   "mods": [
     {
       "id": "harmony",
@@ -32,10 +32,10 @@
     {
       "id": "modern-food",
       "displayName": "現代食物（Modern Food）",
-      "version": "3.0",
+      "version": "3.0-tw2",
       "mandatory": true,
-      "fingerprint": "sha256:d092f67381600129e82374bac284ebdd420638628ab7c63d2ca639bd7a27de4b",
-      "sizeBytes": 16097426,
+      "fingerprint": "sha256:97e06b93051c6ff0c6d99ed4c7e512e087322465353c69ce846410a903fc6102",
+      "sizeBytes": 16097895,
       "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/ModernFood-v3.0-TW.zip",
       "folders": [
         "ModernFood"
