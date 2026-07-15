@@ -3,7 +3,7 @@
   "steamAppId": "251570",
   "modsSubPath": "Mods",
   "gameVersion": "V3.0",
-  "generatedAt": "2026-07-14T20:30:56.665Z",
+  "generatedAt": "2026-07-15T10:25:19.810Z",
   "mods": [
     {
       "id": "harmony",
@@ -55,6 +55,30 @@
         "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack06_ResidentEvil_COSMETICONLY",
         "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack07_TWD_COSMETICONLY",
         "zzzzzz_LittleRedSonja_Mumpfy_ArmorPack09_Fallout_COSMETICONLY"
+      ]
+    },
+    {
+      "id": "auto-repair-station",
+      "displayName": "自動維修站（Auto-Repair Station）",
+      "version": "1.2",
+      "mandatory": true,
+      "fingerprint": "sha256:52564c9165cafde095e9979634786fb1ca85b3b16340b36b391ec66a1381bb98",
+      "sizeBytes": 13009994,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/AutoRepairBox-v3-b259.zip",
+      "folders": [
+        "AutoRepairBox"
+      ]
+    },
+    {
+      "id": "poi-names-tw",
+      "displayName": "建築地名繁體中文化（POI Names TW）",
+      "version": "1.0",
+      "mandatory": true,
+      "fingerprint": "sha256:9c34bb5a577bc8071d1dc80193b539e1ec2efa49e0cd0c19c1c8bd8d68c08c9a",
+      "sizeBytes": 22365,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/zzz_POINamesTW-1.0.zip",
+      "folders": [
+        "zzz_POINamesTW"
       ]
     },
     {
