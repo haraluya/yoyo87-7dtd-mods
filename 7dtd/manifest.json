@@ -3,7 +3,7 @@
   "steamAppId": "251570",
   "modsSubPath": "Mods",
   "gameVersion": "V3.0",
-  "generatedAt": "2026-07-15T10:25:19.810Z",
+  "generatedAt": "2026-07-16T00:28:54.351Z",
   "mods": [
     {
       "id": "harmony",
@@ -79,6 +79,18 @@
       "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/zzz_POINamesTW-1.0.zip",
       "folders": [
         "zzz_POINamesTW"
+      ]
+    },
+    {
+      "id": "efficient-base-repair",
+      "displayName": "高效基地維修站（Efficient Base Repair）",
+      "version": "3.0.0",
+      "mandatory": true,
+      "fingerprint": "sha256:2d0360d9437a71cbc42ff74f4625fa1d7c176a124977c76501437845234194a7",
+      "sizeBytes": 67274,
+      "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/7dtd-latest/EfficientBaseRepair-v3.0.0.zip",
+      "folders": [
+        "EfficientBaseRepair"
       ]
     },
     {
