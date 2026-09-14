@@ -18104,7 +18104,7 @@
       "version": "2.7.32"
     }
   ],
-  "published": "Mon, 14 Sep 2026 16:28:43 GMT",
+  "published": "Mon, 14 Sep 2026 17:00:43 GMT",
   "schema": 2,
   "season": {
     "id": "ul-s3",
@@ -18122,8 +18122,8 @@
     "vpnName": "Tailscale"
   },
   "tool": {
-    "sha256": "872538e8eae640af4ca195251f929efe8d1e1577981fcaada1077298cab18190",
-    "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/syncer-v1.0.1/yoyo87-syncer.exe",
-    "version": "1.0.1"
+    "sha256": "7b99e95679e49e75e608b73a90a06ba9a75bf7c7ab1082b60d42751379abd0fa",
+    "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/syncer-v1.0.2/yoyo87-syncer.exe",
+    "version": "1.0.2"
   }
 }
