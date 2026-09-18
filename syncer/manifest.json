@@ -23,6 +23,30 @@
     },
     "steamAppId": "251570"
   },
+  "manifestUrls": [
+    "http://{tsHost}:8087/ul/manifest.json",
+    "https://raw.githubusercontent.com/haraluya/yoyo87-7dtd-mods/main/syncer/manifest.json"
+  ],
+  "origins": [
+    {
+      "connections": 4,
+      "id": "home",
+      "label": "我們主機",
+      "probeUrl": "http://{tsHost}:8087/ping",
+      "tailscaleHost": {
+        "dnsName": "haraluya-ubuntu2.taila89b20.ts.net.",
+        "ips": [
+          "100.75.161.15"
+        ]
+      }
+    },
+    {
+      "connections": 4,
+      "id": "gitlab",
+      "label": "官方 GitLab",
+      "requestsPerMinute": 450
+    }
+  ],
   "packs": [
     {
       "displayName": "亡靈遺產",
@@ -18085,7 +18109,11 @@
           "label": "第 1 包",
           "project": "subquakesgroup/UndeadLegacyExperimentalPart1",
           "sha": "41e60c392e3068fc8ad238f9395f47b124109671",
-          "type": "gitlab-raw"
+          "type": "http-files",
+          "urls": {
+            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart1/-/raw/41e60c392e3068fc8ad238f9395f47b124109671/{path}",
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
         },
         {
           "files": [
@@ -18103,14 +18131,62 @@
           "label": "第 2 包",
           "project": "subquakesgroup/UndeadLegacyExperimentalPart2",
           "sha": "39e80938f70ba253aedb2c71c70d6ecf6886a7b3",
-          "type": "gitlab-raw"
+          "type": "http-files",
+          "urls": {
+            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart2/-/raw/39e80938f70ba253aedb2c71c70d6ecf6886a7b3/{path}",
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
         }
       ],
       "version": "2.7.33"
+    },
+    {
+      "displayName": "中文化",
+      "id": "ul-chinese",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "UndeadLegacyChinese/"
+      ],
+      "prune": [
+        "UndeadLegacyChinese/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "07aebac9ec16e11bab0ba85e38196b67c612710b",
+              "path": "UndeadLegacyChinese/ModInfo.xml",
+              "size": 500
+            },
+            {
+              "blob": "60a26656e03af086c208888a78529fa24043c6cd",
+              "path": "UndeadLegacyChinese/Config/Localization.txt",
+              "size": 764949
+            },
+            {
+              "blob": "a6e1be62a9f025f24df72dab3fb04575beea1eb9",
+              "path": "UndeadLegacyChinese/Config/XUi/windows.xml",
+              "size": 781
+            },
+            {
+              "blob": "079085faebad826a6082f35d02e99c60849c3522",
+              "path": "UndeadLegacyChinese/Config/XUi_Menu/windows.xml",
+              "size": 2683
+            }
+          ],
+          "label": "中文化包",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "0.24.0.1",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Tue, 15 Sep 2026 02:30:23 GMT",
-  "schema": 2,
+  "published": "Thu, 17 Sep 2026 19:12:13 GMT",
+  "schema": 3,
   "season": {
     "id": "ul-s1",
     "kicker": "SEASON 1 · UNDEAD LEGACY",
@@ -18126,9 +18202,10 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
+  "serial": 1789672333,
   "tool": {
-    "sha256": "7b99e95679e49e75e608b73a90a06ba9a75bf7c7ab1082b60d42751379abd0fa",
-    "url": "https://github.com/haraluya/yoyo87-7dtd-mods/releases/download/syncer-v1.0.2/yoyo87-syncer.exe",
-    "version": "1.0.2"
+    "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
+    "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
+    "version": "2.0.1"
   }
 }
