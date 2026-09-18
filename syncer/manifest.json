@@ -18183,9 +18183,55 @@
       ],
       "version": "0.24.0.1",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "倖存者終端",
+      "id": "yoyo87-terminal",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "ZZZ_YoYo87Terminal/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "35d2cb6aeed2c8af49a61c7038a226f09225a319",
+              "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
+              "size": 416
+            },
+            {
+              "blob": "0e4bae384f0c30477cc40205324cedd458abaed6",
+              "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
+              "size": 112128
+            },
+            {
+              "blob": "115376f9cea0502784638be2609824b324350a03",
+              "path": "ZZZ_YoYo87Terminal/Config/Localization.txt",
+              "size": 15023
+            },
+            {
+              "blob": "93b467aceda8bcb4df8cfc8f9cc8b477cf8507ad",
+              "path": "ZZZ_YoYo87Terminal/Config/XUi/windows.xml",
+              "size": 42080
+            },
+            {
+              "blob": "8e2fdcaa89a187e337a528e2dcd57409cafc9f5b",
+              "path": "ZZZ_YoYo87Terminal/Config/XUi/xui.xml",
+              "size": 562
+            }
+          ],
+          "label": "倖存者終端",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "0.5.0",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Thu, 17 Sep 2026 19:12:13 GMT",
+  "published": "Fri, 18 Sep 2026 13:24:51 GMT",
   "schema": 3,
   "season": {
     "id": "ul-s1",
@@ -18202,7 +18248,7 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
-  "serial": 1789672333,
+  "serial": 1789737891,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
