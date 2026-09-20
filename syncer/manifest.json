@@ -18195,14 +18195,14 @@
         {
           "files": [
             {
-              "blob": "b153524033b39523052c6970f82b00b5939aefa1",
+              "blob": "5baab7cdf39ba181c53e036cc423e8da901008e6",
               "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
               "size": 416
             },
             {
-              "blob": "a1dc29f71f39bcb2b231a2f5c63aaa1739ddf378",
+              "blob": "ababa69277ad3140ea427fc6aae9fa23f3574ed3",
               "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
-              "size": 147968
+              "size": 148480
             },
             {
               "blob": "59c2de18ce0b9d47e0d34523c0118c6d79f520db",
@@ -18227,11 +18227,11 @@
           }
         }
       ],
-      "version": "0.8.0",
+      "version": "0.9.0",
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sun, 20 Sep 2026 10:50:43 GMT",
+  "published": "Sun, 20 Sep 2026 11:00:05 GMT",
   "schema": 3,
   "season": {
     "id": "ul-s1",
@@ -18248,7 +18248,7 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
-  "serial": 1789901443,
+  "serial": 1789902005,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
