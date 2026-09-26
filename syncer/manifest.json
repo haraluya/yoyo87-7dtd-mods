@@ -186,9 +186,9 @@
               "size": 66223
             },
             {
-              "blob": "6877aa04cf103b7ea3c893d791c372ec65abecbf",
+              "blob": "c60ac7fc35ed9a9a090665f0b96bc8d9ac759f78",
               "path": "Mods/UndeadLegacy/Config/Custom/blocks_trees.xml",
-              "size": 100091
+              "size": 100239
             },
             {
               "blob": "8570f467ba1952bc59698f1878d05696177ebbcd",
@@ -196,14 +196,14 @@
               "size": 243452
             },
             {
-              "blob": "1950e2b80237b54bfb28524d6fd317d78dd640b2",
+              "blob": "d847bd4a7734472ee28d7566e34593859b7b818a",
               "path": "Mods/UndeadLegacy/Config/Custom/buffs_flashlight.xml",
-              "size": 5937
+              "size": 5187
             },
             {
-              "blob": "486a758cb9bfb84d25befd30e822ef60bea6a4e5",
+              "blob": "77f1684e61211eed65b082c0fe2c0f50807fb338",
               "path": "Mods/UndeadLegacy/Config/Custom/buffs_food.xml",
-              "size": 1376
+              "size": 2672
             },
             {
               "blob": "ff1247c3431da6227cd7aa046d7d4cda21da66d6",
@@ -211,9 +211,9 @@
               "size": 12143
             },
             {
-              "blob": "7ed81fa09f57152c2fea75315c6aedb3b961df8e",
+              "blob": "c6903773939874083c15d51495bb0368e0a35e41",
               "path": "Mods/UndeadLegacy/Config/Custom/buffs_headgear.xml",
-              "size": 36798
+              "size": 36859
             },
             {
               "blob": "46c50af6c090f55310a9aa10cfc7240fe1324aa9",
@@ -221,9 +221,9 @@
               "size": 14846
             },
             {
-              "blob": "6fd717add0e13b01ec9b2778ad01bc8db4e2a195",
+              "blob": "83fcf64c5889c1f7c7c253f0def28fe880343b65",
               "path": "Mods/UndeadLegacy/Config/Custom/buffs_progression.xml",
-              "size": 101305
+              "size": 102038
             },
             {
               "blob": "f4fc3ba4c557df7184cbed384f4b5d3be17ee21d",
@@ -231,9 +231,9 @@
               "size": 10725
             },
             {
-              "blob": "a76665abd08fe361b047b52a0bec299d55332f36",
+              "blob": "5d2bb47489a110122f245dda150fdbe72e61ad01",
               "path": "Mods/UndeadLegacy/Config/Custom/items_armor.xml",
-              "size": 312334
+              "size": 316251
             },
             {
               "blob": "3104b3c8d07f550bb1a0e893b9cf4ad99d50a832",
@@ -241,14 +241,14 @@
               "size": 56290
             },
             {
-              "blob": "67cfb16ef5a6ba737db27439548e61a98a32997e",
+              "blob": "2ec42197426b79ec2ef0757fdf3dbd8fc96c34ac",
               "path": "Mods/UndeadLegacy/Config/Custom/items_effects.xml",
-              "size": 86965
+              "size": 79556
             },
             {
-              "blob": "90dc9eaef738c24bc1390978562cc612068003d1",
+              "blob": "208ef8241f35a019405e614ab95a1cbe38dfa6a7",
               "path": "Mods/UndeadLegacy/Config/Custom/items_vehicles.xml",
-              "size": 62216
+              "size": 69842
             },
             {
               "blob": "02e57d248f3add0de39b8fbd7d51eff707395d2a",
@@ -286,19 +286,19 @@
               "size": 4194
             },
             {
-              "blob": "93cd1cfe912822c6ce80b93e8effe2ef787c882a",
+              "blob": "0e3bf818b34f822b0ff2c4403010d5863ddd51bb",
               "path": "Mods/UndeadLegacy/Config/Custom/recipes_maintenance.xml",
-              "size": 584004
+              "size": 586964
             },
             {
-              "blob": "ee2c4ee602500b6bf267fd50f83a401e37ae8cba",
+              "blob": "c4245717a9377dc6e81906138ff8cefc874b5ef7",
               "path": "Mods/UndeadLegacy/Config/Custom/recipes_recycler.xml",
               "size": 100029
             },
             {
-              "blob": "c6e86536ff4420b9e1367a7195aed5f7563389e4",
+              "blob": "9767828724009c594ae0fd7ee5da1a842470c51c",
               "path": "Mods/UndeadLegacy/Config/Custom/recipes_research.xml",
-              "size": 291539
+              "size": 292048
             },
             {
               "blob": "977d2e37dc470968aca62be4d87dd64ecbef0fe6",
@@ -326,9 +326,9 @@
               "size": 45
             },
             {
-              "blob": "ff197b5d6be674fe727584a51306d4b10a0f2286",
+              "blob": "3353fbf8732e8784c4ed4e0287b19147ceaeee1f",
               "path": "Mods/UndeadLegacy/Config/Localization/English.txt",
-              "size": 482732
+              "size": 485581
             },
             {
               "blob": "030db52ca156c029ac4ac103b0736da222032034",
@@ -361,24 +361,24 @@
               "size": 48
             },
             {
-              "blob": "a67de134978f36397c7b9b000bf411aac02061bb",
+              "blob": "71d22a798e40ce091eb5263113358093e6f67135",
               "path": "Mods/UndeadLegacy/Config/XUi/controls.xml",
-              "size": 145255
+              "size": 147667
             },
             {
-              "blob": "bfa68ffcc4c2019b01ce933ba265a01fc9e7fdc6",
+              "blob": "19d931832850531aca83f76798ee81553be74368",
               "path": "Mods/UndeadLegacy/Config/XUi/windows.xml",
-              "size": 351379
+              "size": 355101
             },
             {
-              "blob": "1d86cd35ff1472bb6f3c35e840d46c3a95e0e8ea",
+              "blob": "97e2fbb0eb7256751c32926c54cd59fa93f32a79",
               "path": "Mods/UndeadLegacy/Config/XUi/xui.xml",
-              "size": 24646
+              "size": 24757
             },
             {
-              "blob": "3d1d50aff4af974cfa40bd28992915d71ce47de8",
+              "blob": "51df78882a0efbd00db5b145cf36e46393fc3b7a",
               "path": "Mods/UndeadLegacy/Config/XUi_Common/controls.xml",
-              "size": 19864
+              "size": 19898
             },
             {
               "blob": "f0dfee23e0d751bdd02b8ce6c2ce0572c3d93e8f",
@@ -391,14 +391,14 @@
               "size": 34446
             },
             {
-              "blob": "964308d251415295c27bff93662c209d02112dd6",
+              "blob": "201b9b0306739200f8560719bb75149a76684ac4",
               "path": "Mods/UndeadLegacy/Config/XUi_Menu/windows.xml",
-              "size": 142834
+              "size": 171483
             },
             {
-              "blob": "41ad75e37848d1449f9bf109fe1d127a5339f693",
+              "blob": "7ab192416a67e6497b121a2897449528271efc41",
               "path": "Mods/UndeadLegacy/Config/XUi_Menu/xui.xml",
-              "size": 479
+              "size": 577
             },
             {
               "blob": "4af0581872b3721852e730aeb3d795852c1c9f0d",
@@ -416,14 +416,14 @@
               "size": 61304
             },
             {
-              "blob": "59b0e78de942a0dee93c596e2553d78630e45130",
+              "blob": "62ab153b863e72e0deb6843e64c74d978a5a73d2",
               "path": "Mods/UndeadLegacy/Config/blocks.xml",
-              "size": 2288626
+              "size": 2289017
             },
             {
-              "blob": "92767e78aba39506180bf3271aa057a4f22156eb",
+              "blob": "00629e79c789ef30c69564882c41480693b323de",
               "path": "Mods/UndeadLegacy/Config/buffs.xml",
-              "size": 155578
+              "size": 160832
             },
             {
               "blob": "441ecae5c20c66e8ac8394633ad8fad6cb183d38",
@@ -436,14 +436,14 @@
               "size": 13292
             },
             {
-              "blob": "7c9a19e37126f796c408a62a0ac19383004ee43f",
+              "blob": "bd588d46e20bb6f2cb52ec18d14bc86f202b70f5",
               "path": "Mods/UndeadLegacy/Config/entityclasses.xml",
-              "size": 70300
+              "size": 70328
             },
             {
-              "blob": "41ff51df6eeb405c3c4908c189ecfb8f718228d5",
+              "blob": "04ee1930970b145916e2f22661215ffb391efa88",
               "path": "Mods/UndeadLegacy/Config/entitygroups.xml",
-              "size": 6395
+              "size": 5033
             },
             {
               "blob": "2a9d9b7409d4d6019b025fec398dc150be02b5dd",
@@ -456,14 +456,14 @@
               "size": 50000
             },
             {
-              "blob": "81cd3a644ea682eecf220d719204f09b89f37ef6",
+              "blob": "32a4860c7c4f326472f5bdc3c18ef8ac6a53e73b",
               "path": "Mods/UndeadLegacy/Config/item_modifiers.xml",
-              "size": 204997
+              "size": 206325
             },
             {
-              "blob": "15efc58182a20160d7b01b09cbae7b0a8e235b03",
+              "blob": "723d546ec60cb01f8f160aa8edcd91a072cf53b3",
               "path": "Mods/UndeadLegacy/Config/items.xml",
-              "size": 735139
+              "size": 736441
             },
             {
               "blob": "ccfd7824cb1b97ecc0cfe70707a1d44e16a894be",
@@ -516,9 +516,9 @@
               "size": 168477
             },
             {
-              "blob": "144e108d9474215744a19465c9c270494638479e",
+              "blob": "2edc2e32f49dde4a5b048c8cb61bf8e4a4213d58",
               "path": "Mods/UndeadLegacy/Config/recipes.xml",
-              "size": 300899
+              "size": 301718
             },
             {
               "blob": "e8ded0cc24f7ae70adde137ac397387bfc224964",
@@ -531,9 +531,9 @@
               "size": 3837
             },
             {
-              "blob": "0dbbc5181c2c884091a89ef6598616b1f5386279",
+              "blob": "d6e73c29dfa6614b32e3fe9cf04aa3692810993d",
               "path": "Mods/UndeadLegacy/Config/sounds.xml",
-              "size": 199096
+              "size": 199884
             },
             {
               "blob": "17a889f102b3a86dfe64a65eeab04012e226f415",
@@ -541,19 +541,19 @@
               "size": 6373
             },
             {
-              "blob": "0cff9455080d690d07641740b8b8bd70c30fa66c",
+              "blob": "f465e4b700ff22ccb1702003e2003dcdb1c7ea3b",
               "path": "Mods/UndeadLegacy/Config/traders.xml",
-              "size": 141259
+              "size": 141222
             },
             {
-              "blob": "3da3ef17813fe2d82555eeedd517b6f9080c8bca",
+              "blob": "f98f5b78abec5ceb89df54a3ba5cb1d0ddcbf2fc",
               "path": "Mods/UndeadLegacy/Config/ui_display.xml",
-              "size": 129266
+              "size": 129973
             },
             {
-              "blob": "32a55becbc404255c0899ac61a56cd69b8f27972",
+              "blob": "a48570f0e7933f599e9db413d0533b54a1336c96",
               "path": "Mods/UndeadLegacy/Config/vehicles.xml",
-              "size": 256204
+              "size": 255999
             },
             {
               "blob": "7d6cca5ebafd959a93232a707596cd29f0f6cabf",
@@ -8646,6 +8646,11 @@
               "size": 49695
             },
             {
+              "blob": "8c740afb5de76d1b76b6cc9e7621e261a59e71da",
+              "path": "Mods/UndeadLegacy/UIAtlases/ItemIconAtlas/ulmModArmorRaincoat.png",
+              "size": 85386
+            },
+            {
               "blob": "a64348fa901332385e4e29b31096f649ae64ad31",
               "path": "Mods/UndeadLegacy/UIAtlases/ItemIconAtlas/ulmModArmorRangedDamage.png",
               "size": 86132
@@ -15791,6 +15796,11 @@
               "size": 6181
             },
             {
+              "blob": "22cbe755608da7974f5d2b92fba8c40218f31516",
+              "path": "Mods/UndeadLegacy/UIAtlases/UIAtlas/symbol_wet.png",
+              "size": 6856
+            },
+            {
               "blob": "7df682f8f5e6380f543b1a0d0e992f84cd0a0ec2",
               "path": "Mods/UndeadLegacy/UIAtlases/UIAtlas/symbol_wheel.png",
               "size": 19500
@@ -16936,6 +16946,11 @@
               "size": 2186
             },
             {
+              "blob": "22e5099617d9bf087efedbee8bab928a0ca2f033",
+              "path": "Mods/UndeadLegacy/UIAtlases/UIBackground/ui_interact_row.png",
+              "size": 821
+            },
+            {
               "blob": "c165116e8458dfd8535c294b55e1e74575405180",
               "path": "Mods/UndeadLegacy/UIAtlases/UIBackground/ui_linked_storage.png",
               "size": 733
@@ -18061,9 +18076,9 @@
               "size": 2775
             },
             {
-              "blob": "ef9aaf9833eab070521e058e57be99055b0e15e4",
+              "blob": "9b2c9accc77918701594c073edb3d21d24d89238",
               "path": "Mods/UndeadLegacy/UndeadLegacy.dll",
-              "size": 2222592
+              "size": 2247680
             },
             {
               "blob": "c64fe9a63c87edab377e12aeaa6ee5679f77bd69",
@@ -18108,10 +18123,10 @@
           ],
           "label": "第 1 包",
           "project": "subquakesgroup/UndeadLegacyExperimentalPart1",
-          "sha": "41e60c392e3068fc8ad238f9395f47b124109671",
+          "sha": "bf085dc55fa8b51853b47ec1a88ec4532b6301d5",
           "type": "http-files",
           "urls": {
-            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart1/-/raw/41e60c392e3068fc8ad238f9395f47b124109671/{path}",
+            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart1/-/raw/bf085dc55fa8b51853b47ec1a88ec4532b6301d5/{path}",
             "home": "http://{tsHost}:8087/blob/{blob}"
           }
         },
@@ -18138,7 +18153,7 @@
           }
         }
       ],
-      "version": "2.7.33"
+      "version": "2.7.36"
     },
     {
       "displayName": "中文化",
@@ -18231,7 +18246,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 26 Sep 2026 15:36:29 GMT",
+  "published": "Sat, 26 Sep 2026 15:53:44 GMT",
   "schema": 3,
   "season": {
     "id": "ul-s1",
@@ -18248,7 +18263,7 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
-  "serial": 1790436989,
+  "serial": 1790438024,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
