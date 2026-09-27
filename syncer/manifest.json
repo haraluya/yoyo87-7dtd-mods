@@ -18179,14 +18179,14 @@
         {
           "files": [
             {
-              "blob": "a742babc416d9e2767d8d16badada6da178300d9",
+              "blob": "6e142ee6ac17bd51654d23531fb52626e30d74fb",
               "path": "UndeadLegacyChinese/ModInfo.xml",
               "size": 500
             },
             {
-              "blob": "16a8c55e3bc134a7e3649b3d97de7eb31817c990",
+              "blob": "484fd96dc1b6ad2945f10ab52777880defb34a63",
               "path": "UndeadLegacyChinese/Config/Localization.txt",
-              "size": 766035
+              "size": 769607
             },
             {
               "blob": "a6e1be62a9f025f24df72dab3fb04575beea1eb9",
@@ -18206,7 +18206,7 @@
           }
         }
       ],
-      "version": "0.24.0.2",
+      "version": "0.24.0.3",
       "whenUnavailable": "defer"
     },
     {
@@ -18256,7 +18256,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sun, 27 Sep 2026 12:16:10 GMT",
+  "published": "Sun, 27 Sep 2026 14:04:04 GMT",
   "schema": 3,
   "season": {
     "id": "ul-s1",
@@ -18273,7 +18273,7 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
-  "serial": 1790511370,
+  "serial": 1790517844,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
