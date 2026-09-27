@@ -231,9 +231,9 @@
               "size": 10725
             },
             {
-              "blob": "5d2bb47489a110122f245dda150fdbe72e61ad01",
+              "blob": "1ac837688abdf995049f14f33a957a0cffd9cc8b",
               "path": "Mods/UndeadLegacy/Config/Custom/items_armor.xml",
-              "size": 316251
+              "size": 316749
             },
             {
               "blob": "3104b3c8d07f550bb1a0e893b9cf4ad99d50a832",
@@ -241,14 +241,14 @@
               "size": 56290
             },
             {
-              "blob": "2ec42197426b79ec2ef0757fdf3dbd8fc96c34ac",
+              "blob": "8e07f5828ca6db599fcbaebec94ffc4a15208657",
               "path": "Mods/UndeadLegacy/Config/Custom/items_effects.xml",
-              "size": 79556
+              "size": 82234
             },
             {
-              "blob": "208ef8241f35a019405e614ab95a1cbe38dfa6a7",
+              "blob": "73afb9ea22adf25fd86c1ab95a9a547e32513ab6",
               "path": "Mods/UndeadLegacy/Config/Custom/items_vehicles.xml",
-              "size": 69842
+              "size": 69845
             },
             {
               "blob": "02e57d248f3add0de39b8fbd7d51eff707395d2a",
@@ -256,9 +256,9 @@
               "size": 79805
             },
             {
-              "blob": "c41d2c5563c438770e5f447c2cd20c2c90c2aae0",
+              "blob": "b5ef48343be648e347172444e591a022b14742fd",
               "path": "Mods/UndeadLegacy/Config/Custom/loot_groups.xml",
-              "size": 232276
+              "size": 232345
             },
             {
               "blob": "1d947ebf27a951d18f6368d1e52f0c3e91c91fae",
@@ -286,9 +286,9 @@
               "size": 4194
             },
             {
-              "blob": "0e3bf818b34f822b0ff2c4403010d5863ddd51bb",
+              "blob": "d8818ed4eeb95126509ab87541b680480ea8af2f",
               "path": "Mods/UndeadLegacy/Config/Custom/recipes_maintenance.xml",
-              "size": 586964
+              "size": 621687
             },
             {
               "blob": "c4245717a9377dc6e81906138ff8cefc874b5ef7",
@@ -296,9 +296,9 @@
               "size": 100029
             },
             {
-              "blob": "9767828724009c594ae0fd7ee5da1a842470c51c",
+              "blob": "e2c8ea7ab86073d23c1e172644e7fa2db7a476f0",
               "path": "Mods/UndeadLegacy/Config/Custom/recipes_research.xml",
-              "size": 292048
+              "size": 292700
             },
             {
               "blob": "977d2e37dc470968aca62be4d87dd64ecbef0fe6",
@@ -326,9 +326,9 @@
               "size": 45
             },
             {
-              "blob": "3353fbf8732e8784c4ed4e0287b19147ceaeee1f",
+              "blob": "a85bba315d1b2de876cf88a77dc044ca567b162e",
               "path": "Mods/UndeadLegacy/Config/Localization/English.txt",
-              "size": 485581
+              "size": 485820
             },
             {
               "blob": "030db52ca156c029ac4ac103b0736da222032034",
@@ -361,14 +361,14 @@
               "size": 48
             },
             {
-              "blob": "71d22a798e40ce091eb5263113358093e6f67135",
+              "blob": "5182760dd64d8137962afa2bde510f5ed9072c64",
               "path": "Mods/UndeadLegacy/Config/XUi/controls.xml",
-              "size": 147667
+              "size": 147669
             },
             {
-              "blob": "19d931832850531aca83f76798ee81553be74368",
+              "blob": "52323c7903b1bfe5305a92895a0e8e0a9f588f9c",
               "path": "Mods/UndeadLegacy/Config/XUi/windows.xml",
-              "size": 355101
+              "size": 355849
             },
             {
               "blob": "97e2fbb0eb7256751c32926c54cd59fa93f32a79",
@@ -416,14 +416,14 @@
               "size": 61304
             },
             {
-              "blob": "62ab153b863e72e0deb6843e64c74d978a5a73d2",
+              "blob": "2c68b4c65cbbecb097228e67c04bbd64fbdf1cb7",
               "path": "Mods/UndeadLegacy/Config/blocks.xml",
-              "size": 2289017
+              "size": 2289379
             },
             {
-              "blob": "00629e79c789ef30c69564882c41480693b323de",
+              "blob": "80c582273db91913b80c09ce585423d053cfdf72",
               "path": "Mods/UndeadLegacy/Config/buffs.xml",
-              "size": 160832
+              "size": 160957
             },
             {
               "blob": "441ecae5c20c66e8ac8394633ad8fad6cb183d38",
@@ -456,14 +456,14 @@
               "size": 50000
             },
             {
-              "blob": "32a4860c7c4f326472f5bdc3c18ef8ac6a53e73b",
+              "blob": "b742e74c4c3504766577b50879673749f5bd282f",
               "path": "Mods/UndeadLegacy/Config/item_modifiers.xml",
-              "size": 206325
+              "size": 207132
             },
             {
-              "blob": "723d546ec60cb01f8f160aa8edcd91a072cf53b3",
+              "blob": "81025153a875d3284f533bff7f3193b35fa6db86",
               "path": "Mods/UndeadLegacy/Config/items.xml",
-              "size": 736441
+              "size": 736008
             },
             {
               "blob": "ccfd7824cb1b97ecc0cfe70707a1d44e16a894be",
@@ -501,9 +501,9 @@
               "size": 27233
             },
             {
-              "blob": "b7624623b8f0b35d01b64a85c61473d6770840a1",
+              "blob": "a8f026971f203e129fcab11d515d37f5eab1e0bd",
               "path": "Mods/UndeadLegacy/Config/progression.xml",
-              "size": 132822
+              "size": 133708
             },
             {
               "blob": "9feddaeed689f5df69e7d156913d2ad50cf74e27",
@@ -516,9 +516,9 @@
               "size": 168477
             },
             {
-              "blob": "2edc2e32f49dde4a5b048c8cb61bf8e4a4213d58",
+              "blob": "8477bafe39c990996eec94dcacac660ee25d6cf0",
               "path": "Mods/UndeadLegacy/Config/recipes.xml",
-              "size": 301718
+              "size": 302645
             },
             {
               "blob": "e8ded0cc24f7ae70adde137ac397387bfc224964",
@@ -541,19 +541,19 @@
               "size": 6373
             },
             {
-              "blob": "f465e4b700ff22ccb1702003e2003dcdb1c7ea3b",
+              "blob": "b2328e1bf7cce203bf084aa722666e24b93ff58b",
               "path": "Mods/UndeadLegacy/Config/traders.xml",
-              "size": 141222
+              "size": 141715
             },
             {
-              "blob": "f98f5b78abec5ceb89df54a3ba5cb1d0ddcbf2fc",
+              "blob": "8ca0aa25f5c6c61de1ed980b86d8b7f5ae9a544f",
               "path": "Mods/UndeadLegacy/Config/ui_display.xml",
-              "size": 129973
+              "size": 130326
             },
             {
-              "blob": "a48570f0e7933f599e9db413d0533b54a1336c96",
+              "blob": "cfa148387868aebc484a874b2a88f064517b2cee",
               "path": "Mods/UndeadLegacy/Config/vehicles.xml",
-              "size": 255999
+              "size": 256428
             },
             {
               "blob": "7d6cca5ebafd959a93232a707596cd29f0f6cabf",
@@ -4636,6 +4636,11 @@
               "size": 219297
             },
             {
+              "blob": "f3f62baec5e10a857406b8a3a769c95f0d94375a",
+              "path": "Mods/UndeadLegacy/Resources/Subquake_Items2.ulm",
+              "size": 3427078
+            },
+            {
               "blob": "9a5ac820ac55de55d5d19f2d4c4eba0b1ceec3cb",
               "path": "Mods/UndeadLegacy/Resources/Subquake_Journal.ulm",
               "size": 6322767
@@ -8669,6 +8674,11 @@
               "blob": "8fd93479cef933eafb096741df33cd5fe8f41d9b",
               "path": "Mods/UndeadLegacy/UIAtlases/ItemIconAtlas/ulmModChainsawChainTitanium.png",
               "size": 54103
+            },
+            {
+              "blob": "56fb77487b53b3fae7b213b467450ab38be63dd2",
+              "path": "Mods/UndeadLegacy/UIAtlases/ItemIconAtlas/ulmModMeleeChargeExtender.png",
+              "size": 68037
             },
             {
               "blob": "e6cdc1b7a662280adb759ebaaa5f64ec7eade8f7",
@@ -18076,9 +18086,9 @@
               "size": 2775
             },
             {
-              "blob": "9b2c9accc77918701594c073edb3d21d24d89238",
+              "blob": "2fa215877f445fe2cb291cfeadb3f76d29b83015",
               "path": "Mods/UndeadLegacy/UndeadLegacy.dll",
-              "size": 2247680
+              "size": 2272256
             },
             {
               "blob": "c64fe9a63c87edab377e12aeaa6ee5679f77bd69",
@@ -18123,10 +18133,10 @@
           ],
           "label": "第 1 包",
           "project": "subquakesgroup/UndeadLegacyExperimentalPart1",
-          "sha": "bf085dc55fa8b51853b47ec1a88ec4532b6301d5",
+          "sha": "592315aa258851af02be55e7c8d975d04309ec30",
           "type": "http-files",
           "urls": {
-            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart1/-/raw/bf085dc55fa8b51853b47ec1a88ec4532b6301d5/{path}",
+            "gitlab": "https://gitlab.com/subquakesgroup/UndeadLegacyExperimentalPart1/-/raw/592315aa258851af02be55e7c8d975d04309ec30/{path}",
             "home": "http://{tsHost}:8087/blob/{blob}"
           }
         },
@@ -18153,7 +18163,7 @@
           }
         }
       ],
-      "version": "2.7.36"
+      "version": "2.7.37"
     },
     {
       "displayName": "中文化",
@@ -18169,14 +18179,14 @@
         {
           "files": [
             {
-              "blob": "07aebac9ec16e11bab0ba85e38196b67c612710b",
+              "blob": "a742babc416d9e2767d8d16badada6da178300d9",
               "path": "UndeadLegacyChinese/ModInfo.xml",
               "size": 500
             },
             {
-              "blob": "60a26656e03af086c208888a78529fa24043c6cd",
+              "blob": "16a8c55e3bc134a7e3649b3d97de7eb31817c990",
               "path": "UndeadLegacyChinese/Config/Localization.txt",
-              "size": 764949
+              "size": 766035
             },
             {
               "blob": "a6e1be62a9f025f24df72dab3fb04575beea1eb9",
@@ -18196,7 +18206,7 @@
           }
         }
       ],
-      "version": "0.24.0.1",
+      "version": "0.24.0.2",
       "whenUnavailable": "defer"
     },
     {
@@ -18246,7 +18256,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 26 Sep 2026 15:53:44 GMT",
+  "published": "Sun, 27 Sep 2026 12:16:10 GMT",
   "schema": 3,
   "season": {
     "id": "ul-s1",
@@ -18263,7 +18273,7 @@
     "title": "七日殺・亡靈遺產",
     "vpnName": "Tailscale"
   },
-  "serial": 1790438024,
+  "serial": 1790511370,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
