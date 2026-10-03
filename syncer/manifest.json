@@ -13135,9 +13135,120 @@
       ],
       "version": "1.1.0.4",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "附近儲物箱",
+      "id": "beyond-storage-3",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "BeyondStorage3/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "c8bb64dba807985a1e333d86a1b7b65f67544d3b",
+              "path": "BeyondStorage3/BeyondStorage3.dll",
+              "size": 316416
+            },
+            {
+              "blob": "27cd96302453948b862b9f47853a8cf584476648",
+              "path": "BeyondStorage3/LICENSE.txt",
+              "size": 11349
+            },
+            {
+              "blob": "0756d7e1d494fbb706bea16ee9f1d1a9e832d892",
+              "path": "BeyondStorage3/ModInfo.xml",
+              "size": 832
+            },
+            {
+              "blob": "63e9b623b1a2dedd747615662f34712699d031e8",
+              "path": "BeyondStorage3/ModSettings.xml",
+              "size": 1501
+            },
+            {
+              "blob": "77ce743b2e64b63027fc5fe0aedfa20e62e75022",
+              "path": "BeyondStorage3/modconfig.defaults.json",
+              "size": 277
+            },
+            {
+              "blob": "a3e846cdb4a898f5dbc96124eafe6618d432c371",
+              "path": "BeyondStorage3/Config/Localization.csv",
+              "size": 6727
+            },
+            {
+              "blob": "cbe8974f3c69933358ef58083c127a5192ca7271",
+              "path": "BeyondStorage3/Config/loadingscreen.xml",
+              "size": 136
+            },
+            {
+              "blob": "48a105cbdf115b0901735432cc2c535644c5d45b",
+              "path": "BeyondStorage3/Config/XUi_InGame/windows.xml",
+              "size": 10137
+            },
+            {
+              "blob": "1c0b1c33bbc90fea72ca109d1efdd9768c8f0b30",
+              "path": "BeyondStorage3/Config/XUi_InGame/xui.xml",
+              "size": 157
+            },
+            {
+              "blob": "2891c0fb8f74b8e90495087673fa7b968d59d16b",
+              "path": "BeyondStorage3/Docs/BS3_Banner_Top_1280x357.jpg",
+              "size": 81555
+            },
+            {
+              "blob": "d8f0b16d8c01cd9d6452eb79a0c0bf1c2766c63f",
+              "path": "BeyondStorage3/Docs/BS3_Icon_225x225.jpg",
+              "size": 17921
+            },
+            {
+              "blob": "17b2cb4cc4519198d217c01a50e3a72b06216213",
+              "path": "BeyondStorage3/Docs/CHANGELOG.md",
+              "size": 6702
+            },
+            {
+              "blob": "2256a09a0598f79de4a56dd94b04cd8aba90ff97",
+              "path": "BeyondStorage3/Docs/QUICK_START.md",
+              "size": 10863
+            },
+            {
+              "blob": "37674a4a14ae1b3ebd6ceb57107c79903eddf5f8",
+              "path": "BeyondStorage3/Docs/README.md",
+              "size": 20147
+            },
+            {
+              "blob": "315bc86ccde7af9f9685ba9435eed73a472f7fcd",
+              "path": "BeyondStorage3/UIAtlases/UIAtlas/ui_game_symbol_disabled_for_inventory_network.png",
+              "size": 26683
+            },
+            {
+              "blob": "4876867bd1065960f4e952c85bc2e8ef7d3b0796",
+              "path": "BeyondStorage3/UIAtlases/UIAtlas/ui_game_symbol_enabled_for_inventory_network.png",
+              "size": 18176
+            },
+            {
+              "blob": "3976eadeea1e0b79922aac6f4bc18c7a7cb43f27",
+              "path": "BeyondStorage3/UIAtlases/UIAtlas/ui_symbol_beyond_smart_loot_pull_loadout.png",
+              "size": 14285
+            },
+            {
+              "blob": "23c7134a0778714b09dcd29ea80da1722a4e4969",
+              "path": "BeyondStorage3/UIAtlases/UIAtlas/ui_symbol_beyond_smart_loot_push.png",
+              "size": 12775
+            }
+          ],
+          "label": "附近儲物箱（BS3，必裝）",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "3.2.6",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 03 Oct 2026 17:45:13 GMT",
+  "published": "Sat, 03 Oct 2026 19:22:03 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13154,7 +13265,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791049513,
+  "serial": 1791055323,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
