@@ -12930,7 +12930,7 @@
         {
           "files": [
             {
-              "blob": "c1cc447f8de95b0558cc13870d0f13638bb8662a",
+              "blob": "bde8b08f75832fcbb0a58a8f64015b5d3970797f",
               "path": "zzz_War3zukChinese/ModInfo.xml",
               "size": 538
             },
@@ -12940,9 +12940,9 @@
               "size": 1143
             },
             {
-              "blob": "377da5159a5ab51e1fa8fb83de67244bb6989a41",
+              "blob": "a8592f6aecfa52030dad4012f3934abe536969b2",
               "path": "zzz_War3zukChinese/Config/Localization.csv",
-              "size": 408654
+              "size": 408669
             },
             {
               "blob": "93df610b688f155b7a29d1c8bb3c52702be800ef",
@@ -12987,11 +12987,11 @@
           }
         }
       ],
-      "version": "0.1.0",
+      "version": "0.1.1",
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 03 Oct 2026 01:24:18 GMT",
+  "published": "Sat, 03 Oct 2026 16:13:09 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13008,7 +13008,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1790990658,
+  "serial": 1791043989,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
