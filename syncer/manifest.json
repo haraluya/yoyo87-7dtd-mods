@@ -3,7 +3,8 @@
     "folderName": "7 Days To Die",
     "launch": {
       "args": [
-        "-language=tchinese"
+        "-language=tchinese",
+        "-noeac"
       ],
       "env": {
         "SteamAppId": "251570"
@@ -12989,9 +12990,154 @@
       ],
       "version": "0.1.1",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "倖存者終端",
+      "id": "yoyo87-terminal",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "ZZZ_YoYo87Terminal/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "103fd80646f3392864de3e62aca487cb8507d578",
+              "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
+              "size": 426
+            },
+            {
+              "blob": "fd9cd259e23a15dbb508908e2a416fd8279ef666",
+              "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
+              "size": 164864
+            },
+            {
+              "blob": "eccc030d01cbeb18408827174530e005dfc798c0",
+              "path": "ZZZ_YoYo87Terminal/Config/Localization.csv",
+              "size": 24005
+            },
+            {
+              "blob": "f387cd916833747f48a0c01660e90c3e92e98114",
+              "path": "ZZZ_YoYo87Terminal/Config/XUi_InGame/windows.xml",
+              "size": 85503
+            },
+            {
+              "blob": "c755506a6c22502a3518f744166c8486c77c44fc",
+              "path": "ZZZ_YoYo87Terminal/Config/XUi_InGame/xui.xml",
+              "size": 627
+            }
+          ],
+          "label": "倖存者終端",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "0.12.2",
+      "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "官方 Harmony",
+      "id": "tfp-harmony",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "0_TFP_Harmony/"
+      ],
+      "prune": [
+        "0_TFP_Harmony/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "6b3a91120292cbc1149a49956f91194686b6859c",
+              "path": "0_TFP_Harmony/0Harmony.dll",
+              "size": 290304
+            },
+            {
+              "blob": "10dc8843d5d8ce0c45226a7c7c4ef345349ff503",
+              "path": "0_TFP_Harmony/ModInfo.xml",
+              "size": 340
+            },
+            {
+              "blob": "722dd7549c7490ad057d7ea2bf0fb8c8ce3d9687",
+              "path": "0_TFP_Harmony/Mono.Cecil.Mdb.dll",
+              "size": 43008
+            },
+            {
+              "blob": "40883f6c53b4257e772169dba0e25bd7c8bbb8c6",
+              "path": "0_TFP_Harmony/Mono.Cecil.Pdb.dll",
+              "size": 89600
+            },
+            {
+              "blob": "603185dd46170e4a5acf410c4a8fe98874fe6eff",
+              "path": "0_TFP_Harmony/Mono.Cecil.Rocks.dll",
+              "size": 29696
+            },
+            {
+              "blob": "bf1b4e792524793170c758c6f32043fc9413e8b7",
+              "path": "0_TFP_Harmony/Mono.Cecil.dll",
+              "size": 360448
+            },
+            {
+              "blob": "26bbd70f4559c40c1b5867e4cb614b1f332b4fae",
+              "path": "0_TFP_Harmony/MonoMod.Backports.dll",
+              "size": 117760
+            },
+            {
+              "blob": "c28ce044897c0cb01946aa961bd2ff749c36d572",
+              "path": "0_TFP_Harmony/MonoMod.Core.dll",
+              "size": 228352
+            },
+            {
+              "blob": "dfc0f7e22d678ff643a513a76be5fa73ec218ccb",
+              "path": "0_TFP_Harmony/MonoMod.ILHelpers.dll",
+              "size": 6656
+            },
+            {
+              "blob": "4dc4e6e7b4d995b6c690539452b434aa4535d44b",
+              "path": "0_TFP_Harmony/MonoMod.Iced.dll",
+              "size": 638976
+            },
+            {
+              "blob": "3eecbfbcc76f1af1cc0610287e8792697f023d91",
+              "path": "0_TFP_Harmony/MonoMod.RuntimeDetour.dll",
+              "size": 73216
+            },
+            {
+              "blob": "05fea29ffecdaa9a33d080e8db82f8d9a0569aa6",
+              "path": "0_TFP_Harmony/MonoMod.Utils.dll",
+              "size": 339456
+            },
+            {
+              "blob": "02f997d8727ad2217e5e8065b38ac0d7bb8ed7ae",
+              "path": "0_TFP_Harmony/System.ValueTuple.dll",
+              "size": 4608
+            },
+            {
+              "blob": "2a723c6e4766556aac9c9552ad49d734bac92576",
+              "path": "0_TFP_Harmony/TfpHarmony.dll",
+              "size": 7168
+            },
+            {
+              "blob": "d846c2b8a65b31cec66f62a17ec4625f76e89775",
+              "path": "0_TFP_Harmony/TfpHarmony.pdb",
+              "size": 1740
+            }
+          ],
+          "label": "官方 Harmony（終端需要）",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "1.1.0.4",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 03 Oct 2026 16:13:09 GMT",
+  "published": "Sat, 03 Oct 2026 17:45:13 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13008,7 +13154,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791043989,
+  "serial": 1791049513,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
