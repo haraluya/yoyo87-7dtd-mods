@@ -12931,7 +12931,7 @@
         {
           "files": [
             {
-              "blob": "bde8b08f75832fcbb0a58a8f64015b5d3970797f",
+              "blob": "ffe8ccb31327be592fece270fdf2c88fc76e9efa",
               "path": "zzz_War3zukChinese/ModInfo.xml",
               "size": 538
             },
@@ -12941,14 +12941,14 @@
               "size": 1143
             },
             {
-              "blob": "a8592f6aecfa52030dad4012f3934abe536969b2",
+              "blob": "1556bca3137249315935bb6654d798603e326b05",
               "path": "zzz_War3zukChinese/Config/Localization.csv",
-              "size": 408669
+              "size": 410846
             },
             {
-              "blob": "93df610b688f155b7a29d1c8bb3c52702be800ef",
+              "blob": "1801c82098b45df6e610bd9dcab7ce469ef75163",
               "path": "zzz_War3zukChinese/Config/buffs.xml",
-              "size": 39757
+              "size": 39919
             },
             {
               "blob": "6177192921d7d8cd584b3612270c0159eb4654e5",
@@ -12966,9 +12966,9 @@
               "size": 347
             },
             {
-              "blob": "7a95107201066c27a8038b4e4557136658b4cd1e",
+              "blob": "1648cba01f24c7b9fecf76563b7077c06c570e0d",
               "path": "zzz_War3zukChinese/Config/progression.xml",
-              "size": 10450
+              "size": 16086
             },
             {
               "blob": "1c3045358aaa49b238c623c5bff2b78b9f2151c9",
@@ -12988,7 +12988,7 @@
           }
         }
       ],
-      "version": "0.1.1",
+      "version": "0.1.2",
       "whenUnavailable": "defer"
     },
     {
@@ -13248,7 +13248,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sat, 03 Oct 2026 19:22:03 GMT",
+  "published": "Mon, 05 Oct 2026 07:36:03 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13265,7 +13265,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791055323,
+  "serial": 1791185763,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
