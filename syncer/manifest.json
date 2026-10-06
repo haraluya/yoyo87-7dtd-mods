@@ -13246,9 +13246,103 @@
       ],
       "version": "3.2.6",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "揪團開黑畫作",
+      "id": "yoyo87-pics",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "yoyo87Pics/"
+      ],
+      "prune": [
+        "yoyo87Pics/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "dc56d321c2cef274d1039e29b512149290b9e96c",
+              "path": "yoyo87Pics/ModInfo.xml",
+              "size": 390
+            },
+            {
+              "blob": "1569935c0fc6a3beb0df407fd3e51d0e70b95075",
+              "path": "yoyo87Pics/Config/Localization.csv",
+              "size": 1700
+            },
+            {
+              "blob": "7d0ee0fb33e276bb92b29056649df05ca4bad88f",
+              "path": "yoyo87Pics/Config/blocks.xml",
+              "size": 10038
+            },
+            {
+              "blob": "6c6f23a783f02e5e57baf3786fac64820fd7f093",
+              "path": "yoyo87Pics/Config/recipes.xml",
+              "size": 2449
+            },
+            {
+              "blob": "97582d0dd25d24e829e4359f92e0221f3f62a3d4",
+              "path": "yoyo87Pics/Resources/yoyo87Pics.unity3d",
+              "size": 11118407
+            },
+            {
+              "blob": "efa42a0fd876826502b01ce7b1892fb60f2ea9e6",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics01.png",
+              "size": 34413
+            },
+            {
+              "blob": "bbd33f6d635f66813b484e690d5cd86f5fc36cbe",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics02.png",
+              "size": 30378
+            },
+            {
+              "blob": "804f84a1080028061dc5c932fd7592c9e90d0c7d",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics03.png",
+              "size": 34628
+            },
+            {
+              "blob": "3b00eb923bff8b40143d3936a05e3175fb259ac2",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics04.png",
+              "size": 32078
+            },
+            {
+              "blob": "7079a1630ce730a9fe959e395b36f6c3450656b0",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics05.png",
+              "size": 70802
+            },
+            {
+              "blob": "78800ff86722c0b05150d56210bdba6e7ed07764",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics06.png",
+              "size": 75066
+            },
+            {
+              "blob": "f130cc5f3fb0c791f0d5a6ca321e5ec88fae1751",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics07.png",
+              "size": 84201
+            },
+            {
+              "blob": "e7161adf007d580dbc058adfa0d286a3faf2fad6",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics08.png",
+              "size": 82176
+            },
+            {
+              "blob": "1f83927b78f2cae806309ab6f5d3a3615b0aa541",
+              "path": "yoyo87Pics/UIAtlases/ItemIconAtlas/yoyo87Pics09.png",
+              "size": 79747
+            }
+          ],
+          "label": "揪團開黑畫作",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "0.1.0",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Tue, 06 Oct 2026 15:24:43 GMT",
+  "published": "Tue, 06 Oct 2026 17:08:16 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13265,7 +13359,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791300283,
+  "serial": 1791306496,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
