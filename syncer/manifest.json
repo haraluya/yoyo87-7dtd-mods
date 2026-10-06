@@ -13002,24 +13002,24 @@
         {
           "files": [
             {
-              "blob": "103fd80646f3392864de3e62aca487cb8507d578",
+              "blob": "50c992df1c9342ed5cc907c5a3275ef64b0babe8",
               "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
               "size": 426
             },
             {
-              "blob": "fd9cd259e23a15dbb508908e2a416fd8279ef666",
+              "blob": "900b240c689b298b085d914acf00ce00f8a27362",
               "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
-              "size": 164864
+              "size": 201216
             },
             {
-              "blob": "eccc030d01cbeb18408827174530e005dfc798c0",
+              "blob": "8aa5ae7af3f0a89cc5a037334c75246f3d958695",
               "path": "ZZZ_YoYo87Terminal/Config/Localization.csv",
-              "size": 24005
+              "size": 36086
             },
             {
-              "blob": "f387cd916833747f48a0c01660e90c3e92e98114",
+              "blob": "aae6263a7b98df537f560ca7f6afc212166d4566",
               "path": "ZZZ_YoYo87Terminal/Config/XUi_InGame/windows.xml",
-              "size": 85503
+              "size": 98164
             },
             {
               "blob": "c755506a6c22502a3518f744166c8486c77c44fc",
@@ -13034,7 +13034,7 @@
           }
         }
       ],
-      "version": "0.12.2",
+      "version": "0.14.1",
       "whenUnavailable": "defer"
     },
     {
@@ -13248,7 +13248,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Mon, 05 Oct 2026 07:36:03 GMT",
+  "published": "Tue, 06 Oct 2026 00:50:01 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13265,7 +13265,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791185763,
+  "serial": 1791247801,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
