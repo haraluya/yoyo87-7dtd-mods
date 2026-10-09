@@ -13261,14 +13261,14 @@
         {
           "files": [
             {
-              "blob": "c5921d48799f0b84f45e1413c9593ab68b442db9",
+              "blob": "24a82132dabe4ce1b2347f4669a138aea9d5134e",
               "path": "yoyo87Content/ModInfo.xml",
               "size": 411
             },
             {
-              "blob": "3523859483c4224c84f35b29b8e2ea3500c0beba",
+              "blob": "d2ecf6dd5b57db10a0d8b9cf0911691cfbc54426",
               "path": "yoyo87Content/Config/Localization.csv",
-              "size": 825
+              "size": 1012
             },
             {
               "blob": "60c54d9603a8c0b1d31f7514c281f00a1581b5ba",
@@ -13276,14 +13276,14 @@
               "size": 1206
             },
             {
-              "blob": "6aa3d9ef22694d6f2065ce0fa66bc85b9d415e86",
+              "blob": "e7c947064c7b3564df19fbf784cf50a7b98b0646",
               "path": "yoyo87Content/Config/buffs.xml",
-              "size": 1502
+              "size": 6906
             },
             {
-              "blob": "83090a0c9e7d6597b1acd961602f4826927a7da7",
+              "blob": "d0677789487566574ce2c8467bc2b54bc74acb4f",
               "path": "yoyo87Content/Config/items.xml",
-              "size": 4239
+              "size": 4459
             },
             {
               "blob": "a77552f1b7cd12e248d162e4ddf025164d677815",
@@ -13308,11 +13308,11 @@
           }
         }
       ],
-      "version": "0.1.0",
+      "version": "0.1.1",
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Fri, 09 Oct 2026 12:03:16 GMT",
+  "published": "Fri, 09 Oct 2026 15:31:08 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13329,7 +13329,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791547396,
+  "serial": 1791559868,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://oplay.cc/api/download/yoyo87-syncer-2.0.1.exe",
