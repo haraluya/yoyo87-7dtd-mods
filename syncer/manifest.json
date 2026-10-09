@@ -13312,7 +13312,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Thu, 08 Oct 2026 06:16:24 GMT",
+  "published": "Fri, 09 Oct 2026 12:03:16 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13323,16 +13323,16 @@
     },
     "status": {
       "key": "7dtd",
-      "url": "https://game.yoyo87.uk/api/status"
+      "url": "https://oplay.cc/api/status"
     },
     "supportHint": "直接貼到 Discord 給管理員",
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791440184,
+  "serial": 1791547396,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
-    "url": "https://game.yoyo87.uk/api/download/yoyo87-syncer-2.0.1.exe",
+    "url": "https://oplay.cc/api/download/yoyo87-syncer-2.0.1.exe",
     "version": "2.0.1"
   }
 }
