@@ -1,4 +1,85 @@
 {
+  "catalog": {
+    "feedUrl": "https://oplay.cc/api/dc-feed",
+    "games": [
+      {
+        "changelogUrl": "https://oplay.cc/w3z/notes/changelog",
+        "color": "#55DDEE",
+        "icon": "https://oplay.cc/img/269/face-w3z.webp",
+        "id": "w3z",
+        "kind": "steam",
+        "legacy": true,
+        "name": "七日殺・戰爭之王",
+        "oldMods": {
+          "items": [
+            {
+              "path": "BepInEx/",
+              "root": "game"
+            },
+            {
+              "path": "doorstop_libs/",
+              "root": "game"
+            },
+            {
+              "path": "doorstop_config.ini",
+              "root": "game"
+            },
+            {
+              "path": ".doorstop_version",
+              "root": "game"
+            },
+            {
+              "path": "winhttp.dll",
+              "root": "game"
+            },
+            {
+              "path": "run_bepinex.sh",
+              "root": "game"
+            },
+            {
+              "path": "run_bepinex_server.sh",
+              "root": "game"
+            },
+            {
+              "ifContains": "Subquake",
+              "path": "LICENSE",
+              "root": "game"
+            },
+            {
+              "ifContains": "Subquake",
+              "path": "README.md",
+              "root": "game"
+            }
+          ],
+          "scan": [
+            {
+              "dir": "Mods/",
+              "keep": [
+                "0_TFP_Harmony/"
+              ],
+              "root": "game"
+            },
+            {
+              "dir": "7DaysToDie/Mods/",
+              "root": "appdata"
+            }
+          ]
+        },
+        "url": "https://oplay.cc/w3z"
+      },
+      {
+        "color": "#B3243C",
+        "icon": "https://oplay.cc/img/269/face-sgs.webp",
+        "id": "sgs",
+        "kind": "web",
+        "name": "啾啾殺",
+        "url": "https://sgs.oplay.cc"
+      }
+    ],
+    "reportUrl": "https://oplay.cc/api/syncer/report",
+    "schema": 1,
+    "site": "https://oplay.cc"
+  },
   "game": {
     "folderName": "7 Days To Die",
     "launch": {
@@ -13312,7 +13393,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Fri, 09 Oct 2026 15:31:08 GMT",
+  "published": "Tue, 13 Oct 2026 12:37:37 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13329,7 +13410,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791559868,
+  "serial": 1791895057,
   "tool": {
     "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
     "url": "https://oplay.cc/api/download/yoyo87-syncer-2.0.1.exe",
