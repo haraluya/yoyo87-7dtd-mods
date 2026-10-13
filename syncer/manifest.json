@@ -13393,7 +13393,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Tue, 13 Oct 2026 12:37:37 GMT",
+  "published": "Tue, 13 Oct 2026 12:38:10 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13410,10 +13410,11 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791895057,
+  "serial": 1791895090,
   "tool": {
-    "sha256": "531a8e26737dbd7bd4d8a2531bb4a655d016db38e3a3af8b7b442839f3500b4d",
-    "url": "https://oplay.cc/api/download/yoyo87-syncer-2.0.1.exe",
-    "version": "2.0.1"
+    "note": "全新揪團開黑同步器：一支管所有遊戲",
+    "sha256": "cde53b725bbcf3b3a0d712f0ce8eafea3575877f89def160fc4bcadd4056380f",
+    "url": "https://oplay.cc/api/download/oplay-syncer-3.0.0.exe",
+    "version": "3.0.0"
   }
 }
