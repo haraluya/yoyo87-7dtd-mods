@@ -13083,24 +13083,24 @@
         {
           "files": [
             {
-              "blob": "87818ddd2a9464a5ec73aabec4cec8d7bc8f1aa9",
+              "blob": "ae1ff51734ebc85f46d85398feb1db38c5ae31b6",
               "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
               "size": 426
             },
             {
-              "blob": "49f333bf72cdfb6293183ccbaed83056e22c5cc9",
+              "blob": "8c122b391c96ff5564232a07d896920fadc5a5d0",
               "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
-              "size": 201728
+              "size": 209920
             },
             {
-              "blob": "cc5d640d57adae53ee5c62dbdcb275f07f4ac712",
+              "blob": "e24787480e878253f157b6c17e5369c7b5f7d4cd",
               "path": "ZZZ_YoYo87Terminal/Config/Localization.csv",
-              "size": 36336
+              "size": 36764
             },
             {
-              "blob": "e6f4dac3fe31f25c47fee9aaadde0e67abbe7506",
+              "blob": "3cd3e2344cc7561e03e4e9ca5d517089208abf73",
               "path": "ZZZ_YoYo87Terminal/Config/XUi_InGame/windows.xml",
-              "size": 98213
+              "size": 105288
             },
             {
               "blob": "c755506a6c22502a3518f744166c8486c77c44fc",
@@ -13115,7 +13115,7 @@
           }
         }
       ],
-      "version": "0.15.1",
+      "version": "0.16.0",
       "whenUnavailable": "defer"
     },
     {
@@ -13393,7 +13393,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Tue, 13 Oct 2026 13:13:36 GMT",
+  "published": "Thu, 15 Oct 2026 21:47:06 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13410,7 +13410,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1791897216,
+  "serial": 1792100826,
   "tool": {
     "note": "申請加入前提醒先加入 DC，多一顆加入按鈕",
     "sha256": "77728735a4700312076b3b425af794897dd37d97bd08f6ccc99b589b9bdd61ce",
