@@ -13391,9 +13391,68 @@
       ],
       "version": "0.1.1",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "七日殺建造藍圖",
+      "id": "oplay-blueprint",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "ZZZ_OPlayBlueprint/"
+      ],
+      "prune": [
+        "ZZZ_OPlayBlueprint/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "a8caa71d60dcf69f39436f429ac242dcb402ed2c",
+              "path": "ZZZ_OPlayBlueprint/ModInfo.xml",
+              "size": 657
+            },
+            {
+              "blob": "a8bbf58bd27aee300aaf4a520487dbd480a16f0b",
+              "path": "ZZZ_OPlayBlueprint/OPlayBlueprint.dll",
+              "size": 168960
+            },
+            {
+              "blob": "24bc41cf9c0a162ce36caaf09a1faac2aaeb9f47",
+              "path": "ZZZ_OPlayBlueprint/settings-說明.txt",
+              "size": 1180
+            },
+            {
+              "blob": "a3ab4a0082f07e586f2bfa52807716cbac518b89",
+              "path": "ZZZ_OPlayBlueprint/settings.json",
+              "size": 184
+            },
+            {
+              "blob": "1537862617b2c019ee859205ab718256c9397327",
+              "path": "ZZZ_OPlayBlueprint/Config/Localization.csv",
+              "size": 17087
+            },
+            {
+              "blob": "bc4e65522e5e2643a331b13fd32b1413a68c0d27",
+              "path": "ZZZ_OPlayBlueprint/Config/XUi_InGame/windows.xml",
+              "size": 20886
+            },
+            {
+              "blob": "cecd954e4a99c0e91b2c524ce0143b8e78f9c160",
+              "path": "ZZZ_OPlayBlueprint/Config/XUi_InGame/xui.xml",
+              "size": 895
+            }
+          ],
+          "label": "七日殺建造藍圖（必裝）",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "0.6.8",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Fri, 16 Oct 2026 03:38:11 GMT",
+  "published": "Fri, 16 Oct 2026 08:40:55 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13410,7 +13469,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1792121891,
+  "serial": 1792140055,
   "tool": {
     "note": "小包顯示版本號，這次有換新的會標「剛更新」與舊→新版本",
     "sha256": "8dca8238fbfb0cf21b8c613688ec645cd27905f1f171ca3ad2cca659acc1ad3b",
