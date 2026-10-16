@@ -1,6 +1,6 @@
 {
   "catalog": {
-    "feedUrl": "https://oplay.cc/api/dc-feed",
+    "feedUrl": "https://oplay.cc/api/syncer-feed",
     "games": [
       {
         "changelogUrl": "https://oplay.cc/w3z/notes/changelog",
@@ -13393,7 +13393,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Thu, 15 Oct 2026 21:47:06 GMT",
+  "published": "Fri, 16 Oct 2026 03:26:57 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13410,7 +13410,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1792100826,
+  "serial": 1792121217,
   "tool": {
     "note": "申請加入前提醒先加入 DC，多一顆加入按鈕",
     "sha256": "77728735a4700312076b3b425af794897dd37d97bd08f6ccc99b589b9bdd61ce",
