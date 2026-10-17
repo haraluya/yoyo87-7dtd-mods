@@ -13406,14 +13406,14 @@
         {
           "files": [
             {
-              "blob": "a8caa71d60dcf69f39436f429ac242dcb402ed2c",
+              "blob": "d3459f82d735d16c5e7feb10aa2cd9e4f7760c44",
               "path": "ZZZ_OPlayBlueprint/ModInfo.xml",
-              "size": 657
+              "size": 661
             },
             {
-              "blob": "a8bbf58bd27aee300aaf4a520487dbd480a16f0b",
+              "blob": "92e8faf00e8e1f3c6e46c6314fcb69abb47225a4",
               "path": "ZZZ_OPlayBlueprint/OPlayBlueprint.dll",
-              "size": 168960
+              "size": 181248
             },
             {
               "blob": "24bc41cf9c0a162ce36caaf09a1faac2aaeb9f47",
@@ -13426,9 +13426,9 @@
               "size": 184
             },
             {
-              "blob": "1537862617b2c019ee859205ab718256c9397327",
+              "blob": "e86fdb5bbfa0a0eb44fb96bd9818b0bf1d91f297",
               "path": "ZZZ_OPlayBlueprint/Config/Localization.csv",
-              "size": 17087
+              "size": 17470
             },
             {
               "blob": "bc4e65522e5e2643a331b13fd32b1413a68c0d27",
@@ -13448,11 +13448,11 @@
           }
         }
       ],
-      "version": "0.6.8",
+      "version": "0.7.0",
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Fri, 16 Oct 2026 08:40:55 GMT",
+  "published": "Sat, 17 Oct 2026 09:14:16 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13469,7 +13469,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1792140055,
+  "serial": 1792228456,
   "tool": {
     "note": "小包顯示版本號，這次有換新的會標「剛更新」與舊→新版本",
     "sha256": "8dca8238fbfb0cf21b8c613688ec645cd27905f1f171ca3ad2cca659acc1ad3b",
