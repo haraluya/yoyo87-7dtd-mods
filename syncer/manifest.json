@@ -13083,19 +13083,19 @@
         {
           "files": [
             {
-              "blob": "ae1ff51734ebc85f46d85398feb1db38c5ae31b6",
+              "blob": "d15ddad6d37bdf39cf778a67d934fe2d958946e1",
               "path": "ZZZ_YoYo87Terminal/ModInfo.xml",
               "size": 426
             },
             {
-              "blob": "8c122b391c96ff5564232a07d896920fadc5a5d0",
+              "blob": "eb78919bca25c46869dd8ca86890c5327bb82410",
               "path": "ZZZ_YoYo87Terminal/YoYo87Terminal.dll",
-              "size": 209920
+              "size": 211456
             },
             {
-              "blob": "e24787480e878253f157b6c17e5369c7b5f7d4cd",
+              "blob": "a3eb2477403fb23e9b0f602836deaff534d880ee",
               "path": "ZZZ_YoYo87Terminal/Config/Localization.csv",
-              "size": 36764
+              "size": 37509
             },
             {
               "blob": "3cd3e2344cc7561e03e4e9ca5d517089208abf73",
@@ -13103,9 +13103,9 @@
               "size": 105288
             },
             {
-              "blob": "c755506a6c22502a3518f744166c8486c77c44fc",
+              "blob": "508e4bce43f578957274fb340ac2f2fd4c68212e",
               "path": "ZZZ_YoYo87Terminal/Config/XUi_InGame/xui.xml",
-              "size": 627
+              "size": 687
             }
           ],
           "label": "倖存者終端",
@@ -13115,7 +13115,7 @@
           }
         }
       ],
-      "version": "0.16.0",
+      "version": "0.17.0",
       "whenUnavailable": "defer"
     },
     {
@@ -13616,7 +13616,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sun, 08 Nov 2026 13:02:08 GMT",
+  "published": "Sun, 08 Nov 2026 13:38:08 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13633,7 +13633,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1794142928,
+  "serial": 1794145088,
   "tool": {
     "note": "小包顯示版本號，這次有換新的會標「剛更新」與舊→新版本",
     "sha256": "8dca8238fbfb0cf21b8c613688ec645cd27905f1f171ca3ad2cca659acc1ad3b",
