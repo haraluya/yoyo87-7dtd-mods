@@ -13450,9 +13450,139 @@
       ],
       "version": "0.8.0",
       "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "外觀衣櫃（CAS）",
+      "id": "w3z-cas",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "LittleRedSonja_CAS/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "a2df6bba72ecc7bda5ecbd1a095a577f548c73db",
+              "path": "LittleRedSonja_CAS/CAS_config.txt",
+              "size": 507
+            },
+            {
+              "blob": "ac11f6abcdd1d5d58ade8122368a4d332534b2e2",
+              "path": "LittleRedSonja_CAS/Changelog.txt",
+              "size": 8731
+            },
+            {
+              "blob": "daa887cab3e4b4b8ed89d1b024c961741086a588",
+              "path": "LittleRedSonja_CAS/LittleRedSonja_Banner_1024.jpg",
+              "size": 123702
+            },
+            {
+              "blob": "3c174d851cbbcbec6c49239a0d3d0baa5ab97ce4",
+              "path": "LittleRedSonja_CAS/ModInfo.xml",
+              "size": 448
+            },
+            {
+              "blob": "983547890c2236209d63196e5cdeaa33fdcb6c98",
+              "path": "LittleRedSonja_CAS/Readme.txt",
+              "size": 2051
+            },
+            {
+              "blob": "040223e313a6b08affe6e6ec0620d51a8d0cf784",
+              "path": "LittleRedSonja_CAS/SonjaCustomArmorCosmeticsMod.dll",
+              "size": 64000
+            },
+            {
+              "blob": "b97607c4d32885d7aa09ed0232d364839527d69a",
+              "path": "LittleRedSonja_CAS/Config/XUi_InGame/windows.xml",
+              "size": 3379
+            },
+            {
+              "blob": "541af23dcd8527808d9baeb6e7b3a1fd83c4ddda",
+              "path": "LittleRedSonja_CAS/Config/XUi_Menu/windows.xml",
+              "size": 616
+            },
+            {
+              "blob": "8bc767b925e6b8ccd6721f3cfea039be805b077c",
+              "path": "LittleRedSonja_CAS/How to use/ConfigFile_01.png",
+              "size": 38343
+            },
+            {
+              "blob": "f59094a6fe106c888a142f9632c53d4ab18c0dd6",
+              "path": "LittleRedSonja_CAS/How to use/ConfigFile_02.png",
+              "size": 27876
+            },
+            {
+              "blob": "8a975834e915a9e6db5406f4639b3f556cdbc40f",
+              "path": "LittleRedSonja_CAS/How to use/How_To_Add_Custom_Armors_To_CAS.txt",
+              "size": 908
+            },
+            {
+              "blob": "b3c8d92a28682a8cf0d436110061691c63d5fc49",
+              "path": "LittleRedSonja_CAS/Textures/TheHorror_Background.jpg",
+              "size": 326031
+            }
+          ],
+          "label": "外觀衣櫃（CAS，必裝）",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "3.0.0",
+      "whenUnavailable": "defer"
+    },
+    {
+      "displayName": "翠林獵鷹外觀",
+      "id": "w3z-yomi-outfit",
+      "installRoot": "mods",
+      "ownedPaths": [
+        "YomiOutfit/"
+      ],
+      "prune": [
+        "YomiOutfit/"
+      ],
+      "sources": [
+        {
+          "files": [
+            {
+              "blob": "01efc74b3bd1a3eec782c95dc8a6d4e4b3561c71",
+              "path": "YomiOutfit/ModInfo.xml",
+              "size": 379
+            },
+            {
+              "blob": "45f58eb2faa68ec9c51aab99b4aff87e09be5cf3",
+              "path": "YomiOutfit/Sonja_Cosmetic_Armor_System.txt",
+              "size": 76
+            },
+            {
+              "blob": "4ecbc8155803c59aa61c31714deeb0d52db51821",
+              "path": "YomiOutfit/Config/Localization.csv",
+              "size": 1357
+            },
+            {
+              "blob": "0ecfcec3cd88e3c8f93d113679f0df1baa983b88",
+              "path": "YomiOutfit/Config/items.xml",
+              "size": 8156
+            },
+            {
+              "blob": "3e575e9cc568c748e96b7709e3eac0906e61f08c",
+              "path": "YomiOutfit/Resources/yomi_outfit.unity3d",
+              "size": 52376137
+            }
+          ],
+          "label": "翠林獵鷹外觀（必裝）",
+          "type": "http-files",
+          "urls": {
+            "home": "http://{tsHost}:8087/blob/{blob}"
+          }
+        }
+      ],
+      "version": "1.0.0",
+      "whenUnavailable": "defer"
     }
   ],
-  "published": "Mon, 19 Oct 2026 13:43:54 GMT",
+  "published": "Sun, 08 Nov 2026 11:59:11 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13469,7 +13599,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1792417434,
+  "serial": 1794139151,
   "tool": {
     "note": "小包顯示版本號，這次有換新的會標「剛更新」與舊→新版本",
     "sha256": "8dca8238fbfb0cf21b8c613688ec645cd27905f1f171ca3ad2cca659acc1ad3b",
