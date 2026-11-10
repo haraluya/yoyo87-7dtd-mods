@@ -13406,34 +13406,34 @@
         {
           "files": [
             {
-              "blob": "9798e4c2de3c4b9d04940f855ec6210450fe1c9b",
+              "blob": "585e5522d6f7584de7e4313fd4fd8f3e8a822d0f",
               "path": "ZZZ_OPlayBlueprint/ModInfo.xml",
               "size": 661
             },
             {
-              "blob": "b8c0f03d885542c82e63662ba6e8f2d2e5d7b949",
+              "blob": "53086fa0170986d17d2417476e8c42720367d0eb",
               "path": "ZZZ_OPlayBlueprint/OPlayBlueprint.dll",
-              "size": 203264
+              "size": 233472
             },
             {
-              "blob": "24bc41cf9c0a162ce36caaf09a1faac2aaeb9f47",
+              "blob": "3734a4c5a51636458c0645194fd89667e290d16b",
               "path": "ZZZ_OPlayBlueprint/settings-說明.txt",
-              "size": 1180
+              "size": 1593
             },
             {
-              "blob": "a3ab4a0082f07e586f2bfa52807716cbac518b89",
+              "blob": "d86ad55750307a289a7b3e236835ae6d279605b1",
               "path": "ZZZ_OPlayBlueprint/settings.json",
-              "size": 184
+              "size": 211
             },
             {
-              "blob": "83d07d2aa02c684b84e2cb2bb96d4ed5c4bf7ce0",
+              "blob": "996398062c33578d095556f0624b154ebfdf29df",
               "path": "ZZZ_OPlayBlueprint/Config/Localization.csv",
-              "size": 22763
+              "size": 24788
             },
             {
-              "blob": "d7dc7d5befe765e20431eb5c9eee55b3a16a85a3",
+              "blob": "29368b27f822d2974fe936ec5be1a22693dc8117",
               "path": "ZZZ_OPlayBlueprint/Config/XUi_InGame/windows.xml",
-              "size": 22587
+              "size": 26085
             },
             {
               "blob": "cecd954e4a99c0e91b2c524ce0143b8e78f9c160",
@@ -13448,7 +13448,7 @@
           }
         }
       ],
-      "version": "0.8.0",
+      "version": "0.9.0",
       "whenUnavailable": "defer"
     },
     {
@@ -13616,7 +13616,7 @@
       "whenUnavailable": "defer"
     }
   ],
-  "published": "Sun, 08 Nov 2026 13:38:08 GMT",
+  "published": "Tue, 10 Nov 2026 12:06:38 GMT",
   "schema": 3,
   "season": {
     "id": "w3z-trial",
@@ -13633,7 +13633,7 @@
     "title": "七日殺・戰爭之王",
     "vpnName": "Tailscale"
   },
-  "serial": 1794145088,
+  "serial": 1794312398,
   "tool": {
     "note": "小包顯示版本號，這次有換新的會標「剛更新」與舊→新版本",
     "sha256": "8dca8238fbfb0cf21b8c613688ec645cd27905f1f171ca3ad2cca659acc1ad3b",
